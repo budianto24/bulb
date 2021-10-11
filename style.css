@@ -143,3 +143,7 @@ body.on .blub span:nth-child(2) {
 .on .switch .btn::before {
     top: 15%;
 }
+
+#audio {
+    display: none;
+}
